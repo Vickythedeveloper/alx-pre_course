@@ -1,1 +1,1 @@
-Familiarity with git starts here
+Starting to code today, so cool
